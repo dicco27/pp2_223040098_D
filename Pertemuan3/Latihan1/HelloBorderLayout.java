@@ -1,4 +1,4 @@
-package Pertemuan3;
+package Pertemuan3.Latihan1;
 
 import java.awt.*;
 import java.awt.event.*;
